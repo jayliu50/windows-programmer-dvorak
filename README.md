@@ -1,13 +1,20 @@
 windows-programmer-dvorak
 =========================
+About
+-----
+Forked from [jayliu50/windows-programmer-dvorak](https://github.com/jayliu50/windows-programmer-dvorak). Swaps `Caps` and `Backspace` and enables ShiftLock.
 
-Contains the MS Keyboard Layout Creator source file for Programmer Dvorak (as found on [http://www.kaufmann.no/roland/dvorak/](http://www.kaufmann.no/roland/dvorak/)).
+Installation
+------------
+Run `usprogdv\setup.exe`.
 
-How is this better than the Windows driver provided on that site?
+How to use
+----------
+Press `Ctrl` + `Shift` to switch between your current keyboard layout and **Programmer's Dvorak**. Click [here](https://winaero.com/change-hotkeys-switch-keyboard-layout-windows-10/) to learn how to change the keyboard shortcut.
 
-1. I use Microsoft's Keyboard Layout Creator to make a native solution. This means that the 10-key number pad layout will be preserved, rather than taking on the same key assignments as the number row.
-2. The source file will be included. This means you will be able to customize and recompile the source to suit your needs. Note: compiling from source will require the [Keyboard Layout Creator](http://msdn.microsoft.com/en-us/goglobal/bb964665.aspx) from Microsoft. With the Layout Creator, you will then be able to redistribute your modifications via installer. Pretty slick.
-
-Feel free to create pull requests with any changes.
-
-For MacOS, see this sister project: <https://github.com/jayliu50/macos-programmer-dvorak>
+Uninstallation
+--------------
+1. Press `Windows Key` + `I` to open Windows Settings
+2. Click on Apps
+3. Scroll down to "United States-Dvorak - Programmer" and click on it
+4. Uninstall
