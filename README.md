@@ -2,7 +2,7 @@ windows-programmer-dvorak
 =========================
 About
 -----
-Forked from [jayliu50/windows-programmer-dvorak](https://github.com/jayliu50/windows-programmer-dvorak). Swaps `Caps` and `Backspace` and enables ShiftLock.
+Forked from [jayliu50/windows-programmer-dvorak](https://github.com/jayliu50/windows-programmer-dvorak). Swaps `Caps` and `Backspace`.
 
 Installation
 ------------
