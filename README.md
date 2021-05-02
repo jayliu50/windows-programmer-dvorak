@@ -80,7 +80,7 @@ lot about the history of Dvorak and Qwerty
 anyway. Besides, no one but you will be able to use your computer ;)
 - If you want to learn Programmer Dvorak, I suggest using 
 [Ratatype](https://www.ratatype.com/courses/english-dvorak/) to learn Dvorak and 
-[TODO](https://programmer-dvorak.appspot.com/) to learn Programmer Dvorak. Try 
+[appspot](https://programmer-dvorak.appspot.com/) to learn Programmer Dvorak. Try 
 to get 3 stars per lesson on Ratatype, otherwise you'll struggle later on. Stop 
 when you reach Lesson 12. Continue at appspot on Lesson 30 and do all of the 
 rest of the lessons there. Once you finish, continue at Lesson 12 on Ratatype.
