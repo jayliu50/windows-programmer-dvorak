@@ -50,7 +50,7 @@ Uninstallation
 
 Compiling it yourself
 ---------------------
-1. Download `programmer-dvorak.klc`.
+1. Download `windows-programmer-dvorak-qwerty-ctrl.klc`.
 2. Download Microsoft Keyboard Layout Creator from 
 [here](https://www.microsoft.com/en-us/download/confirmation.aspx?id=102134).
 3. Go to `C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\`.
@@ -67,7 +67,7 @@ Compiling it yourself
 ```
 9. Replace `CAPITAL` with `BACK`.
 11. Open Microsoft Keyboard Layout Creator.
-12. Click `File` -> `Load Source File...` and choose `programmer-dvorak.klc`.
+12. Click `File` -> `Load Source File...` and choose `windows-programmer-dvorak-qwerty-ctrl.klc`.
 13. Click `Project` -> `Build DLL and Setup Package`.
 
 Tips
