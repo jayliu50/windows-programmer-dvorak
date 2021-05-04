@@ -9,10 +9,10 @@ faster. **Programmer Dvorak** is a variant of Dvorak with different number and
 symbol positions to help you write programs more efficiently. 
 
 This layout is based on Programmer Dvorak, but swaps `Caps Lock` and 
-`Backspace` (similar to Colemak) because `Backspace` is used more frequently and 
-should be closer to home row. This layout also switches to Qwerty when holding 
-`Ctrl` or `Win` so keyboard shortcuts are easier to use, similar to 
-"dvorak-qwerty command" on mac.
+`Backspace` (similarly to Colemak) because `Backspace` is used more frequently and
+should be closer to home row. This layout also switches to QWERTY when holding 
+`Ctrl` or `Win` so keyboard shortcuts are easier to use, similarly to 
+Dvorak - QWERTY ⌘ on macOS.
 
 Layout
 ------
@@ -50,7 +50,7 @@ Uninstallation
 
 Compiling it yourself
 ---------------------
-1. Download `programmers-dvorak.klc`.
+1. Download `programmer-dvorak.klc`.
 2. Download Microsoft Keyboard Layout Creator from 
 [here](https://www.microsoft.com/en-us/download/confirmation.aspx?id=102134).
 3. Go to `C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\`.
@@ -67,7 +67,7 @@ Compiling it yourself
 ```
 9. Replace `CAPITAL` with `BACK`.
 11. Open Microsoft Keyboard Layout Creator.
-12. Click `File` -> `Load Source File...` and choose `programmers-dvorak.klc`.
+12. Click `File` -> `Load Source File...` and choose `programmer-dvorak.klc`.
 13. Click `Project` -> `Build DLL and Setup Package`.
 
 Tips
@@ -75,9 +75,9 @@ Tips
 - If you've made changes to they layout but they didn't seem to apply, restart
 your PC.
 - Check [this](http://www.dvzine.org/) comic, you'll enjoy it and you'll learn a 
-lot about the history of Dvorak and Qwerty
+lot about the history of Dvorak and QWERTY
 - Don't rearrange the keys on your keyboard, you're not supposed to look at them
-anyway. Besides, no one but you will be able to use your computer ;)
+anyway. Besides, now no one but you can use your computer ;)
 - If you want to learn Programmer Dvorak, I suggest using 
 [Ratatype](https://www.ratatype.com/courses/english-dvorak/) to learn Dvorak and 
 [appspot](https://programmer-dvorak.appspot.com/) to learn Programmer Dvorak. Try 
