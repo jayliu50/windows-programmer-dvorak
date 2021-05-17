@@ -1,5 +1,5 @@
-windows-programmer-dvorak-qwerty
-================================
+windows-programmer-dvorak-qwerty-ctrl
+=====================================
 About
 -----
 Forked from [jayliu50/windows-programmer-dvorak](https://github.com/jayliu50/windows-programmer-dvorak). 
