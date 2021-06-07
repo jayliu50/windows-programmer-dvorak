@@ -72,7 +72,7 @@ Compiling it yourself
 
 Tips
 ----
-- If you've made changes to they layout but they didn't seem to apply, restart
+- If you made changes to the layout but they didn't seem to apply, restart
 your PC.
 - Check [this](http://www.dvzine.org/) comic, you'll enjoy it and you'll learn a 
 lot about the history of Dvorak and QWERTY
